@@ -5,3 +5,5 @@ https://github.com/xavysp/TEED
 https://github.com/nmwsharp/diffusion-net
 **Link to the denoising network**
 https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+**Link to the incomplete line drawing data**
+https://github.com/qinnzou/mural-image-inpainting
